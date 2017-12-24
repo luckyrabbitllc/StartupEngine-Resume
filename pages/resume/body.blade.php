@@ -1,9 +1,9 @@
 <body class="index-page sidebar-collapse">
 <div class="wrapper">
-    <div class="section" style="padding:25px;border-top:royalblue 5px solid;">
+    <div class="section section-resume">
         <div class="container">
             <div class="card card-resume">
-                <div class="content-center" style="margin-top: 25px;">
+                <div class="content-center">
                     @if(isset($page->content()->profile->image))
                         <div class="photo-container" style="background-image:url('{{ $page->content()->profile->image }}');">
                         </div>
