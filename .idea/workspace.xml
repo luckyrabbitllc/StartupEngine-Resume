@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72c935c-2f6f-4d20-bc68-acf5379a3ed3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/resume/scripts.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/body.blade.php" afterPath="$PROJECT_DIR$/pages/resume/body.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/page.json" afterPath="$PROJECT_DIR$/pages/resume/page.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/css.html" afterPath="$PROJECT_DIR$/pages/resume/css.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/resume/page.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -40,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="css.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="179" column="5" lean-forward="false" selection-start-line="179" selection-start-column="5" selection-end-line="179" selection-end-column="5" />
+            <state relative-caret-position="605">
+              <caret line="176" column="15" lean-forward="false" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -71,6 +68,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>box-sizing: none;</find>
+      <find>css</find>
+      <find>25px</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -80,10 +79,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/theme.json" />
-        <option value="$PROJECT_DIR$/pages/resume/css.html" />
         <option value="$PROJECT_DIR$/pages/resume/scripts.html" />
         <option value="$PROJECT_DIR$/pages/resume/body.blade.php" />
         <option value="$PROJECT_DIR$/pages/resume/page.json" />
+        <option value="$PROJECT_DIR$/pages/resume/css.html" />
       </list>
     </option>
   </component>
@@ -163,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514075250320</updated>
-      <workItem from="1514075251639" duration="5546000" />
+      <workItem from="1514075251639" duration="5722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5546000" />
+    <option name="totallyTimeSpent" value="5722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -213,14 +212,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="179" column="5" lean-forward="false" selection-start-line="179" selection-start-column="5" selection-end-line="179" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/resume/scripts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -247,6 +238,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="184" column="10" lean-forward="false" selection-start-line="184" selection-start-column="10" selection-end-line="184" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="176" column="15" lean-forward="false" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="15" />
           <folding />
         </state>
       </provider>
