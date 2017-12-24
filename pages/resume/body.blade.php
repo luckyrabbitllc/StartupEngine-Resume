@@ -28,7 +28,7 @@
                                         <h5 class="description">{{ $page->content()->experience->headline }}</h5>
                                     @endif
                                     @if(isset($page->content()->experience->content))
-                                        {!!  $post->markdown($post->content()->experience->content) !!}
+                                        {!!  $page->markdown($page->content()->experience->content) !!}
                                     @endif
                                 </div>
                             </div>
@@ -42,7 +42,7 @@
                                     <h5 class="description">{{ $page->content()->skills->headline }}</h5>
                                 @endif
                                 @if(isset($page->content()->skills->content))
-                                    {!!  $post->markdown($post->content()->skills->content) !!}
+                                    {!!  $page->markdown($page->content()->skills->content) !!}
                                 @endif
                                 </div>
                             </div>
@@ -56,7 +56,7 @@
                                         <h5 class="description">{{ $page->content()->awards->headline }}</h5>
                                     @endif
                                     @if(isset($page->content()->awards->content))
-                                        {!!  $post->markdown($post->content()->awards->content) !!}
+                                        {!!  $page->markdown($page->content()->awards->content) !!}
                                     @endif
                                 </div>
                             </div>
@@ -70,7 +70,7 @@
                                         <h5 class="description">{{ $page->content()->projects->headline }}</h5>
                                     @endif
                                     @if(isset($page->content()->projects->content))
-                                        {!!  $post->markdown($post->content()->projects->content) !!}
+                                        {!!  $page->markdown($page->content()->projects->content) !!}
                                     @endif
                                 </div>
                             </div>
