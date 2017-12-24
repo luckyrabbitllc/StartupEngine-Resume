@@ -11,13 +11,13 @@
       "fields": {
         "name": {
           "type": "text",
-          "slug": "headline",
+          "slug": "name",
           "description": "Your name.",
           "placeholder": "Steve Jobs"
         },
         "image": {
           "type": "text",
-          "slug": "headline",
+          "slug": "image",
           "description": "Your profile picture.",
           "placeholder": "http://..."
         },
