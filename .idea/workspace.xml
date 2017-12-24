@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72c935c-2f6f-4d20-bc68-acf5379a3ed3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/body.blade.php" afterPath="$PROJECT_DIR$/pages/resume/body.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/css.html" afterPath="$PROJECT_DIR$/pages/resume/css.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="css.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="182" column="21" lean-forward="false" selection-start-line="182" selection-start-column="21" selection-end-line="182" selection-end-column="21" />
+            <state relative-caret-position="575">
+              <caret line="203" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="211" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -80,6 +79,7 @@
       <find>h5</find>
       <find>150</find>
       <find>card-resume</find>
+      <find>photo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,12 +173,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514075250320</updated>
       <workItem from="1514075251639" duration="8001000" />
-      <workItem from="1514091148742" duration="3617000" />
+      <workItem from="1514091148742" duration="3998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11618000" />
+    <option name="totallyTimeSpent" value="11999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -278,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="182" column="21" lean-forward="false" selection-start-line="182" selection-start-column="21" selection-end-line="182" selection-end-column="21" />
+        <state relative-caret-position="575">
+          <caret line="203" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="211" selection-end-column="8" />
           <folding />
         </state>
       </provider>
