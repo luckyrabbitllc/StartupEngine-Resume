@@ -186,19 +186,19 @@
         },
         "experience": {
           "headline": "Work Experience",
-          "content": null
+          "content": "Work experience goes here."
         },
         "skills": {
           "headline": "Skills",
-          "content": null
+          "content": "Skills go here."
         },
         "awards": {
           "headline": "Awards",
-          "content": null
+          "content": "Awards go here."
         },
         "projects": {
           "headline": "Projects",
-          "content": null
+          "content": "Projects go here."
         },
         "calltoaction": {
           "headline": "Want to work together?",
