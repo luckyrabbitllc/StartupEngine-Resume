@@ -189,19 +189,19 @@
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         },
         "experience": {
-          "headline": "Work Experience",
+          "headline": "<i class=\"fas fa-briefcase\"></i>&nbsp; Work Experience",
           "content": "Work experience goes here."
         },
         "skills": {
-          "headline": "Skills",
+          "headline": "<i class=\"fas fa-list\"></i>&nbsp; Skills",
           "content": "Skills go here."
         },
         "awards": {
-          "headline": "Awards",
+          "headline": "<i class=\"fas fa-trophy\"></i>&nbsp; Awards",
           "content": "Awards go here."
         },
         "projects": {
-          "headline": "Projects",
+          "headline": "<i class=\"fas fa-certificate\"></i>&nbsp; Projects",
           "content": "Projects go here."
         },
         "calltoaction": {
