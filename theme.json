@@ -1,0 +1,11 @@
+{
+  "name": "Resume",
+  "slug": "resume",
+  "version": "0.1",
+  "description": "A resume with A/B testing.",
+  "image": null,
+  "modules": [],
+  "schemas": null,
+  "disable_schemas": [],
+  "settings": null
+}
