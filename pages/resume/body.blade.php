@@ -16,7 +16,7 @@
                     @endif
                 </div>
                 @if(isset($page->content()->profile->bio))
-                    <h5 class="description">{{ $page->content()->profile->bio }}</h5>
+                    <h5 class="description" id="bio">{{ $page->content()->profile->bio }}</h5>
                 @endif
                 <div class="col-md-12">
                     <div class="row">
