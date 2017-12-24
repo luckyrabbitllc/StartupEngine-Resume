@@ -40,7 +40,8 @@
       "slug": "experience",
       "fields": {
         "headline": {
-          "type": "text",
+          "type": "code",
+          "mode": "html",
           "slug": "headline",
           "description": "Section heading text.",
           "placeholder": "Work Experience"
@@ -58,7 +59,8 @@
       "slug": "skills",
       "fields": {
         "headline": {
-          "type": "text",
+          "type": "code",
+          "mode": "html",
           "slug": "headline",
           "description": "Section heading text.",
           "placeholder": "Work Experience"
@@ -76,7 +78,8 @@
       "slug": "awards",
       "fields": {
         "headline": {
-          "type": "text",
+          "type": "code",
+          "mode": "html",
           "slug": "headline",
           "description": "Section heading text.",
           "placeholder": "Work Experience"
@@ -94,7 +97,8 @@
       "slug": "projects",
       "fields": {
         "headline": {
-          "type": "text",
+          "type": "code",
+          "mode": "html",
           "slug": "headline",
           "description": "Section heading text.",
           "placeholder": "Work Experience"
