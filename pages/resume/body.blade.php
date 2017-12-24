@@ -5,7 +5,7 @@
             <div class="card card-resume">
                 <div class="content-center" style="margin-top: 25px;">
                     <div class="photo-container">
-                        <img src="{{ $page->content()->profile->image }}" alt="">
+                        <img src="{{ $page->content()->profile->image }}" alt="" class="rounded-circle img-raised">
                     </div>
                     <h3 class="title">{{ $page->content()->profile->name }}</h3>
                     <p class="jobtitle">{{ $page->content()->profile->title }}</p>
