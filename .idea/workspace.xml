@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72c935c-2f6f-4d20-bc68-acf5379a3ed3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/page.json" afterPath="$PROJECT_DIR$/pages/resume/page.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resume/css.html" afterPath="$PROJECT_DIR$/pages/resume/css.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/resume/page.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="css.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="164" column="35" lean-forward="false" selection-start-line="164" selection-start-column="35" selection-end-line="164" selection-end-column="35" />
+            <state relative-caret-position="272">
+              <caret line="156" column="36" lean-forward="true" selection-start-line="156" selection-start-column="36" selection-end-line="156" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -84,9 +84,9 @@
       <list>
         <option value="$PROJECT_DIR$/theme.json" />
         <option value="$PROJECT_DIR$/pages/resume/scripts.html" />
-        <option value="$PROJECT_DIR$/pages/resume/css.html" />
         <option value="$PROJECT_DIR$/pages/resume/body.blade.php" />
         <option value="$PROJECT_DIR$/pages/resume/page.json" />
+        <option value="$PROJECT_DIR$/pages/resume/css.html" />
       </list>
     </option>
   </component>
@@ -167,12 +167,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514075250320</updated>
       <workItem from="1514075251639" duration="8001000" />
-      <workItem from="1514091148742" duration="1779000" />
+      <workItem from="1514091148742" duration="1972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9780000" />
+    <option name="totallyTimeSpent" value="9973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -250,14 +250,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/resume/scripts.html" />
-    <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="164" column="35" lean-forward="false" selection-start-line="164" selection-start-column="35" selection-end-line="164" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/resume/body.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -270,6 +262,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="186" column="63" lean-forward="false" selection-start-line="186" selection-start-column="63" selection-end-line="186" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="156" column="36" lean-forward="true" selection-start-line="156" selection-start-column="36" selection-end-line="156" selection-end-column="36" />
           <folding />
         </state>
       </provider>
