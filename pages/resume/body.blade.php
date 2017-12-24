@@ -25,7 +25,7 @@
                             <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     @if(isset($page->content()->experience->headline))
-                                        <h5 class="description">{{ $page->content()->experience->headline }}</h5>
+                                        <h5 class="description">{!! $page->content()->experience->headline !!}</h5>
                                     @endif
                                     @if(isset($page->content()->experience->content))
                                         {!!  $page->markdown($page->content()->experience->content) !!}
@@ -39,7 +39,7 @@
                             <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                 @if(isset($page->content()->skills->headline))
-                                    <h5 class="description">{{ $page->content()->skills->headline }}</h5>
+                                    <h5 class="description">{!! $page->content()->skills->headline !!}</h5>
                                 @endif
                                 @if(isset($page->content()->skills->content))
                                     {!!  $page->markdown($page->content()->skills->content) !!}
@@ -53,7 +53,7 @@
                             <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     @if(isset($page->content()->awards->headline))
-                                        <h5 class="description">{{ $page->content()->awards->headline }}</h5>
+                                        <h5 class="description">{!! $page->content()->awards->headline !!}</h5>
                                     @endif
                                     @if(isset($page->content()->awards->content))
                                         {!!  $page->markdown($page->content()->awards->content) !!}
@@ -67,7 +67,7 @@
                             <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     @if(isset($page->content()->projects->headline))
-                                        <h5 class="description">{{ $page->content()->projects->headline }}</h5>
+                                        <h5 class="description">{!! $page->content()->projects->headline !!}</h5>
                                     @endif
                                     @if(isset($page->content()->projects->content))
                                         {!!  $page->markdown($page->content()->projects->content) !!}
