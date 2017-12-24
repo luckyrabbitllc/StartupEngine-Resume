@@ -10,12 +10,12 @@
                     <h3 class="title">{{ $page->content()->profile->name }}</h3>
                     <p class="jobtitle">{{ $page->content()->profile->title }}</p>
                 </div>
-                <h5 class="description">{ $page->content()->profile->bio }}</h5>
+                <h5 class="description">{{ $page->content()->profile->bio }}</h5>
                 <div class="col-md-12">
                     <div class="row">
                         @if(isset($page->content()->experience->content))
                         <div class="col-md-6">
-                            <div class="card card-simple" style="box-sizing: none;box-shadow: none;">
+                            <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     <h5 class="description">{{ $page->content()->experience->headline }}</h5>
                                     {!!  $post->markdown($post->content()->experience->content) !!}
@@ -25,7 +25,7 @@
                         @endif
                         @if(isset($page->content()->skills->content))
                         <div class="col-md-6">
-                            <div class="card card-simple" style="box-sizing: none;box-shadow: none;">
+                            <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     <h5 class="description">{{ $page->content()->skills->headline }}</h5>
                                 </div>
@@ -35,7 +35,7 @@
                         @endif
                         @if(isset($page->content()->awards->content))
                         <div class="col-md-6">
-                            <div class="card card-simple" style="box-sizing: none;box-shadow: none;">
+                            <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     <h5 class="description">{{ $page->content()->awards->headline }}</h5>
                                     {!!  $post->markdown($post->content()->awards->content) !!}
@@ -45,7 +45,7 @@
                         @endif
                         @if(isset($page->content()->projects->content))
                         <div class="col-md-6">
-                            <div class="card card-simple" style="box-sizing: none;box-shadow: none;">
+                            <div class="card card-simple" style="box-shadow: none;">
                                 <div class="card-body">
                                     <h5 class="description">{{ $page->content()->projects->headline }}</h5>
                                     {!!  $post->markdown($post->content()->projects->content) !!}
