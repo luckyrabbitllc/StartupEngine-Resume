@@ -12,11 +12,11 @@
                         <h3 class="title name">{{ $page->content()->profile->name }}</h3>
                     @endif
                     @if(isset($page->content()->profile->title))
-                        <p class="jobtitle">{{ $page->content()->profile->title }}</p>
+                        <p class="jobtitle">{{ $page->markdown($page->content()->profile->title) }}</p>
                     @endif
                 </div>
                 @if(isset($page->content()->profile->bio))
-                    <h5 class="description" id="bio">{{ $page->content()->profile->bio }}</h5>
+                    <h5 class="description" id="bio">{{ $page->markdown($page->content()->profile->bio) }}</h5>
                 @endif
                 <div class="col-md-12">
                     <div class="row">
