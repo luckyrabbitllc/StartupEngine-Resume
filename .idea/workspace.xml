@@ -18,21 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="theme.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme.json">
+      <file leaf-file-name="body.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/resume/body.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="18" column="113" lean-forward="true" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
               <folding />
             </state>
           </provider>
@@ -41,18 +31,8 @@
       <file leaf-file-name="css.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="204" column="17" lean-forward="false" selection-start-line="204" selection-start-column="17" selection-end-line="204" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="body.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/resume/body.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="113" lean-forward="true" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
+            <state relative-caret-position="485">
+              <caret line="224" column="34" lean-forward="false" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -71,7 +51,6 @@
       <find>$post</find>
       <find>nth</find>
       <find>card-res</find>
-      <find>descript</find>
       <find>headline</find>
       <find>bio</find>
       <find>150</find>
@@ -84,9 +63,12 @@
       <find>h5.t</find>
       <find>photo</find>
       <find>text-al</find>
-      <find>h5</find>
       <find>card p</find>
       <find>border:5</find>
+      <find>descript</find>
+      <find>.title</find>
+      <find>description</find>
+      <find>h5</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -189,12 +171,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514075250320</updated>
       <workItem from="1514075251639" duration="8001000" />
-      <workItem from="1514091148742" duration="8836000" />
+      <workItem from="1514091148742" duration="9142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16837000" />
+    <option name="totallyTimeSpent" value="17143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -290,7 +272,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/resume/body.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="240">
           <caret line="18" column="113" lean-forward="true" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
           <folding />
         </state>
@@ -298,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/resume/css.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="204" column="17" lean-forward="false" selection-start-line="204" selection-start-column="17" selection-end-line="204" selection-end-column="17" />
+        <state relative-caret-position="485">
+          <caret line="224" column="34" lean-forward="false" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
           <folding />
         </state>
       </provider>
