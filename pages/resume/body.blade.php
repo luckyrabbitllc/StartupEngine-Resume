@@ -9,7 +9,7 @@
                         </div>
                     @endif
                     @if(isset($page->content()->profile->name))
-                        <h3 class="title">{{ $page->content()->profile->name }}</h3>
+                        <h3 class="title name">{{ $page->content()->profile->name }}</h3>
                     @endif
                     @if(isset($page->content()->profile->title))
                         <p class="jobtitle">{{ $page->content()->profile->title }}</p>
